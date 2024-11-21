@@ -4,11 +4,11 @@ DEtail Usage Instructions:
 
 2. Make it executable: Run the following command to make the script executable:
 
-$ chmod +x system_health_check.sh
+ $ chmod +x system_health_check.sh
 
 3. Run the script as root:
 
-$ sudo ./system_health_check.sh
+ $ sudo ./system_health_check.sh
 
 4. Stop the script: Press [CTRL+C] to stop the monitoring.
 
