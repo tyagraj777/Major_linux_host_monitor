@@ -1,4 +1,4 @@
-DEtail Usage Instructions:
+Detail Usage Instructions:
 
 1. Save the script: Save the above script to a file, e.g., system_health_check.sh.
 
