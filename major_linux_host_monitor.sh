@@ -2,6 +2,14 @@
 #comprehensive bash script that monitors the five major issues (memory leaks, overloaded services, disk space exhaustion, high I/O wait, and system resource mismanagement) on a Debian system.
 #This script continually checks the system and outputs the status. It also provides instructions to stop the script.
 
+#script for monitoring
+#1. Memory leaks: Uses free -h to show memory usage.
+#2. System Load: Uses top to display the load and top processes.
+#3. Disk Space: Uses df -h to monitor disk usage.
+#4. I/O Wait: Uses iostat to check disk I/O performance.
+#5. Swap usage: Uses swapon --show to display swap usage
+
+
 #IMP- on How to
 # follow README file for detail usesage
 
