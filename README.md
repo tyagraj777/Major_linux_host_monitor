@@ -1,5 +1,9 @@
 Detail Usage Instructions:
 
+Dependency packages needed:
+# sysstat (sudo apt install -y sysstat)
+
+  
 1. Save the script: Save the above script to a file, e.g., system_health_check.sh.
 
 2. Make it executable: Run the following command to make the script executable:
