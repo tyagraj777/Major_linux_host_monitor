@@ -52,7 +52,8 @@ check_io_wait() {
 # Function to check swap and resource mismanagement
 check_swap_usage() {
     echo "Checking swap usage..."
-    swapon --show
+#    swapon --show
+    free -m
     echo ""
 }
 
