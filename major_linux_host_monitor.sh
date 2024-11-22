@@ -69,5 +69,5 @@ while true; do
     check_disk_space
     check_io_wait
     check_swap_usage
-    sleep 5
+    sleep 15
 done
